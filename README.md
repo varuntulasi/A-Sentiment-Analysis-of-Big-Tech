@@ -7,7 +7,7 @@ Before we give instructions on how to get this interface working, [here](https:/
 
 ### Instructions
 
-1. Clone this repo to you computer using `git clone https://github.ubc.ca/amlk8913/SH_VT_AL_public.git`.
+1. Clone this repo to you computer using `git clone https://github.com/varuntulasi/A-Sentiment-Analysis-of-Big-Tech.git`.
 
 
 2. Open your `Terminal` and go to the directory where this repo is cloned and type `python corpus_backend.py`.
