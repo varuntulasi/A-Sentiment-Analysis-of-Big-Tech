@@ -1,8 +1,6 @@
-# Peer Review Instructions
+# A Sentiment Analysis of Big Tech
 
-## A Sentiment Analysis of Big Tech
-
-In this project, Serena, Varun and Amy did a sentiment analysis of Facebook, Microsoft, Apple and Amazon by collecting English and French language tweets and Chinese Weibo social media posts relating the #Apple, #Amazon, #Facebook and #Microsoft.
+Sentiment analysis of Facebook, Microsoft, Apple and Amazon by collecting English and French language tweets and Chinese Weibo social media posts relating the #Apple, #Amazon, #Facebook and #Microsoft.
 
 
 Before we give instructions on how to get this interface working, [here](https://www.dropbox.com/s/zithwyawy7kukfe/full_corpus_demo_2.mov?dl=0) is a quick **demo** on how to use the interface/corpus.
